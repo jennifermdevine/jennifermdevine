@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jennifermdevine
 - 👀 I’m interested in creating a career with my budding skills in software development.
-- 🌱 I’m currently learning from ThriveDX's software development program hosted out of UNLV.
+- 🌱 I’m currently learning from ThriveDX's software development program hosted by UNLV.
 - 📫 How to reach me ... jennifermdevine88@gmail or jemidev#1897 on Discord.
 
 <!---
