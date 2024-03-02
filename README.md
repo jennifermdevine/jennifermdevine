@@ -2,6 +2,7 @@
 - 👀 I’m interested in creating a career with my budding skills in software development.
 - 🌱 I’m a graduate of ThriveDX's software development program hosted by UNLV.
 - 📫 How to reach me ... jennifermdevine88@gmail or jennifermdevine on Discord.
+- 📄 Check out my <a href="https://www.linkedin.com/in/jennifermichelledevine/" target="_blank">LinkedIn</a>.
 
 <!---
 jennifermdevine/jennifermdevine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
