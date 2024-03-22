@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @jennifermdevine
-- 👀 I’m interested in creating a career with my budding skills in software development.
-- 🌱 I’m a graduate of ThriveDX's software development program hosted by UNLV.
+- 👋 Hi, I’m @jennifermdevine :)
+
+- 💻 I’m in the beginning of trying to start my career with my skills in software development, specifically with frontend development.
+- 📚 I’m a recent graduate of ThriveDX's ten month software development bootcamp hosted by UNLV.
 - 📫 How to reach me ... jennifermdevine88@gmail or jennifermdevine on Discord.
-- 📄 Check out my <a href="https://www.linkedin.com/in/jennifermichelledevine/" target="_blank">LinkedIn</a>.
+- 📄 Check out my <a href="https://www.linkedin.com/in/jennifermichelledevine/" target="_blank">LinkedIn</a> and <a href="" target="_blank">portfolio</a>.
 
 <!---
 jennifermdevine/jennifermdevine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
